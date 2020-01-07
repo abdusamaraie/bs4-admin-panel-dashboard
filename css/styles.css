@@ -1,5 +1,5 @@
 @media (min-width: 752px) {
-  footer {
+  footer #main-footer {
     position: fixed;
     height: 100px;
     bottom: 0;
